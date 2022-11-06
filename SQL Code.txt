@@ -1,0 +1,122 @@
+
+-- create
+CREATE TABLE Books (
+  Book_Id INTEGER PRIMARY KEY,
+  Book_name TEXT NOT NULL,
+  Author_name TEXT NOT NULL,
+  Genre TEXT NOT NULL,
+  Rating INTEGER
+);
+
+-- insert
+INSERT INTO Books VALUES (0001, 'Harry Potter and The Sorcerers Stone', 'J.K.Rowling', 'Fiction' 5);
+INSERT INTO Books VALUES (0002, 'Harry Potter and The Chamber of Secrets', 'J.K.Rowling','Fiction' 5);
+INSERT INTO Books VALUES (0003, 'Harry Potter and The Prisoner of Azkaban', 'J.K.Rowling','Fiction' 5);
+INSERT INTO BOOKS VALUES (0004, 'Harry Potter and The Goblet of Fire', 'J.K.Rowling','Fiction' 5);
+INSERT INTO BOOKS VALUES (0005, 'Harry Potter and The Order of Phoenix', 'J.K.Rowling','Fiction' 5);
+INSERT INTO BOOKS VALUES (0006, 'Harry Potter and The Half-Blood Prince', 'J.K.Rowling','Fiction' 5);
+INSERT INTO BOOKS VALUES (0007, 'Harry Potter and The Deathly Hallows', 'J.K.Rowling','Fiction' 5);
+INSERT INTO BOOKS VALUES (0008, 'Pride and Prejudice', 'Jane Austen','Drama' 5);
+INSERT INTO BOOKS VALUES (0009, 'The Fault in Our Stars', 'John Green', 'Romance',5);
+INSERT INTO BOOKS VALUES (0010, 'The Great Gatsby', 'F.Scott Fitzgerald', 'Fiction', 4);
+INSERT INTO BOOKS VALUES (0011, 'All The Light We Cannot See', 'Anthony Doerr', 'Fiction', 3);
+INSERT INTO BOOKS VALUES (0012, 'The Girl on The Train', 'Paula Hawkins', 'Thriller', 3);
+INSERT INTO BOOKS VALUES (0013, 'Gone Girl', 'Gillian Flynn', 'Mystery', 2);
+INSERT INTO BOOKS VALUES (0014, 'The Twilight Saga', 'Stephanie Meyer', 'Fiction', 5):
+INSERT INTO BOOKS VALUES (0015, 'Divergent', 'Veronica Roth', 'Fiction', 3);
+INSERT INTO BOOKS VALUES (0016, 'Jane Eyre', 'Charlotte Bronte', 'Gothic Fiction', 5);
+INSERT INTO BOOKS VALUES (0017, 'Little Women', 'Louisa May Alcott', 'Fiction', 5);
+INSERT INTO BOOKS VALUES (0018, 'Anna Karenina', 'Leo Tolstoy', 'Fiction', 5);
+INSERT INTO BOOKS VALUES (0019, 'The Hobbit, or There and Back Again', 'J.R.R. Tolkien', 'Fantasy', 3);
+INSERT INTO BOOKS VALUES (0014, 'Les Miserables', 'Victor Hugo', 'Epic', 5);
+INSERT INTO BOOKS VALUES (0015, 'Gone With The Wind', 'Margaret Mitchell', 'Romance', 4);
+INSERT INTO BOOKS VALUES (0016, 'Minor Feelings: An Asian American Reckoning', 'Cathy Park Hong', 'Biography', 3);
+INSERT INTO BOOKS VALUES (0017, 'Giovannis Room', 'James Baldwin', 'Psychological fiction', 3);
+INSERT INTO BOOKS VALUES (0018, 'The Alchemist', 'Paulo Coelho', 'Drama', 5);
+INSERT INTO BOOKS VALUES (0019, 'Untamed', 'Glennon Doyle', 'Costume Drama', 4);
+INSERT INTO BOOKS VALUES (0020, 'Fahrenheit 451', 'Ray Bradbury', 'Science Fiction', 5);
+INSERT INTO BOOKS VALUES (0021, 'Mans Search for Meaning', 'Viktor E. Frankl', 'Biography', 3);
+INSERT INTO BOOKS VALUES (0022, 'The Perks of Being a Wallflower', 'Stephen Chbosky', 'Romance', 4);
+INSERT INTO BOOKS VALUES (0023, 'A Thousand Splendid Suns', 'Khaled Hosseini', 'Domestic Fiction', 4);
+INSERT INTO BOOKS VALUES (0024, 'The Little Prince', 'Antoine De Saint-Exupery', 'Fiction', 2);
+INSERT INTO BOOKS VALUES (0025, 'Life of Pi', 'Yann Martel', 'Adventure Fiction', 3);
+INSERT INTO BOOKS VALUES (0026, 'The Year of Magical Thinking', 'Joan Didion', 'Memoir', 3);
+INSERT INTO BOOKS VALUES (0027, 'Men We Reaped', 'Jesmyn Ward', 'Biography', 3);
+INSERT INTO BOOKS VALUES (0028, 'The Catcher in The Rye', 'J.D. Salinger', 'Fiction', 3);
+INSERT INTO BOOKS VALUES (0029, 'A Short History of Nearly Everything', 'Bill Bryson', 'Non-fiction', 2);
+INSERT INTO BOOKS VALUES (0030, 'To Kill A Mockingbird', 'Harper Lee', 'Gothic Fiction', 3);
+INSERT INTO BOOKS VALUES (0031, 'Just Us: An American Conversation', 'Claudia Rankine', 'Poetry', 2);
+INSERT INTO BOOKS VALUES (0032, 'The Book of Delights:Essays', 'Ross Gay', 'Autobiography', 2);
+INSERT INTO BOOKS VALUES (0033, 'The Diary of A Young Girl', 'Anne Frank', 'Biography', 3);
+INSERT INTO BOOKS VALUES (0034, 'How To Be An Antiracist', 'Ibram X.Kendi', 'Autobiography', 4);
+INSERT INTO BOOKS VALUES (0035, 'The Life-Changing Magic of Tidying Up', 'Marie Kondo', 'Self-help book', 4);
+INSERT INTO BOOKS VALUES (0036, 'In The Dreams House: A Memoir', 'Carmen Maria Machado', 'Biography', 4);
+INSERT INTO BOOKS VALUES (0037, 'Thick: And Other Essays', 'Tressie McMillan Cottom', 'Autobiography', 4);
+INSERT INTO BOOKS VALUES (0038, 'Deep World: Rules for Focused Success in a Distracted World', 'Cal Newport', 'Self-help Book', 4);
+INSERT INTO BOOKS VALUES (0039, 'Maybe You Should Talk to Someone', 'Houghton Mifflin Harcourt', 'Autobiography', 4);
+INSERT INTO BOOKS VALUES (0040, 'Big Magic: Creative Living Beyond Fear', 'Elizabeth Gilbert', 'Self-help book', 5);
+INSERT INTO BOOKS VALUES (0041, 'I Remember Nothing', 'Maya Angelou', 'Biography', 4);
+INSERT INTO BOOKS VALUES (0042, 'The Lord of The Rings', 'J.R.R Tolkien', 'Fantasy', 3);
+INSERT INTO BOOKS VALUES (0043, 'The Kite Runner', 'Khaled Hosseini', 'Drama', 5);
+INSERT INTO BOOKS VALUES (0044, 'Slaughterhouse- Five', 'Kurt Vonnegut', 'Fiction', 4);
+INSERT INTO BOOKS VALUES (0045, 'The Lion, The Witch, and The Wardrobe', 'C.S. Lewis', 'Fiction', 4);
+INSERT INTO BOOKS VALUES (0046, 'The Book Thief', 'Markus Zusak', 'Fiction', 4);
+INSERT INTO BOOKS VALUES (0047, 'Wuthering Heights', 'Emily Bronte', 'Romance', 5);
+INSERT INTO BOOKS VALUES (0048, 'Animal Farm', 'George Orwell', 'Allegory', 4);
+INSERT INTO BOOKS VALUES (0049, 'Frankenstein', 'Mary Shelley', 'Fiction', 5);
+INSERT INTO BOOKS VALUES (0050, 'Of Mice and Men', 'John Steinbeck', 'Fiction', 4);
+INSERT INTO BOOKS VALUES (0051, 'Think and Grow Rich', 'Napolean Hill', 'Self-help book', 4);
+INSERT INTO BOOKS VALUES (0052, 'The Intelligent Investor', 'Benjamin Graham', 'Value-investing book', 4);
+INSERT INTO BOOKS VALUES (0053, 'How to Win Friends and Influence People', 'Dale Carnegie', 'Self-help books', 4);
+INSERT INTO BOOKS VALUES (0054, 'A Brief History of Time', 'Stephen Hawking', 'Popular science', 4);
+INSERT INTO BOOKS VALUES (0055, 'Uncanny Valley', 'Anna Wiener', 'Fiction', 5);
+INSERT INTO BOOKS VALUES (0056, 'On The Road', 'Jack Kerouac', 'Fiction', 4);
+INSERT INTO BOOKS VALUES (0057, 'Notes from A Small Island', 'Bill Bryson', 'Travel Literature', 4);
+INSERT INTO BOOKS VALUES (0058, 'Vagabonding', 'Rolf Potts', 'Guide', 4);
+INSERT INTO BOOKS VALUES (0059, 'Wild', 'Cheryl Strayed', 'Biography', 4);
+INSERT INTO BOOKS VALUES (0060, 'Long Walk to Freedom', 'Nelson Mandela', 'Autobiography', 4);
+INSERT INTO BOOKS VALUES (0061, 'Good Company', 'Cynthia dAprix  Sweeney', 'Fiction', 4);
+INSERT INTO BOOKS VALUES (0062, 'Normal People', 'Sally Rooney', 'Fiction', 4);
+INSERT INTO BOOKS VALUES (0063, 'Trust Execise', 'Susan Choi', 'Romance', 4);
+INSERT INTO BOOKS VALUES (0064, 'Trick Mirror: Reflections on Self-Delusion', 'Jia Tolentino', 'Non-fiction', 4);
+INSERT INTO BOOKS VALUES (0065, 'Mostly Dead Things', 'Kristen Arnett', 'Humor', 3);
+INSERT INTO BOOKS VALUES (0066, 'Looker', 'Laura Sims', 'Thriller', 4);
+INSERT INTO BOOKS VALUES (0067, 'The Bright Hour: A Memoir of Living and Dying','Nina Riggs', 'Autobiography', 2);
+INSERT INTO BOOKS VALUES (0068, 'The Particular Sadness of Lemon Cake', 'Aimee Bender', 'Fiction', 3);
+INSERT INTO BOOKS VALUES (0069, 'Alone Time', 'Stephanie Rosenbloom', 'Autobiography', 2);
+INSERT INTO BOOKS VALUES (0070, 'The Shortest Way Home', 'Miriam Parker', 'Autobiography', 4);
+INSERT INTO BOOKS VALUES (0071, 'Becoming', 'Michelle Obama', 'Memoir' 4);
+INSERT INTO BOOKS VALUES (0072, 'Overwhelmed', 'Brigid Schulte', 'Alternative/Indie', 3);
+INSERT INTO BOOKS VALUES (0073, 'Kafka on The Shore', 'Haruli Murakami', 'Humor', 3);
+INSERT INTO BOOKS VALUES (0074, 'Flaneuse', 'Lauren Elkin', 'Autobiography', 4);
+INSERT INTO BOOKS VALUES (0075, 'The Wedding Date', 'Jasmine Guillory', 'Fiction', 4);
+INSERT INTO BOOKS VALUES (0076, 'The Thirteen Tale', 'Diane Setterfield', 'Fiction', 3);
+INSERT INTO BOOKS VALUES (0077, 'The Language of Flowers', 'Vanessa Diffenbaugh', 'Fiction', 3);
+INSERT INTO BOOKS VALUES (0078, 'This is How It Always Is', 'Laurie Frankel', 'Fiction', 3);
+INSERT INTO BOOKS VALUES (0079, 'An American Marriage', 'Tayari Jones', 'Fiction', 4);
+INSERT INTO BOOKS VALUES (0080, 'The Great Believers', 'Rebecca Makkai', 'Fiction', 4);
+INSERT INTO BOOKS VALUES (0081, 'Where The Crawdads Sing', 'Delia Owens', 'Mystery', 2);
+INSERT INTO BOOKS VALUES (0082, 'Everyone Brave Is Forgiven', 'Chris Cleave', 'Romance', 2);
+INSERT INTO BOOKS VALUES (0083, 'As Bright AS Heaven', 'Susan Meissner', 'Fiction', 3);
+INSERT INTO BOOKS VALUES (0084, 'The Pillars of The Earth', 'Ken Follett', 'Historical Fiction', 3);
+INSERT INTO BOOKS VALUES (0085, 'The Rosie Project', 'Graeme Simison', 'Romance', 3);
+INSERT INTO BOOKS VALUES (0086, 'A Man Called Ove', 'Fredrik Backman', 'Fiction', 4);
+INSERT INTO BOOKS VALUES (0087, 'Fierce Kingdom', 'Gin Phillips', 'Fiction', 4);
+INSERT INTO BOOKS VALUES (0088, 'Then She Was Gone', 'Lisa Jewell', 'Fiction', 3);
+INSERT INTO BOOKS VALUES (0089, 'Freefall', 'Jessica Barry', 'Fiction', 5);
+INSERT INTO BOOKS VALUES (0090, 'Into The Forest', 'Jean Hegland', 'Thriller', 5);
+INSERT INTO BOOKS VALUES (0091, 'Julius Caesar', 'Shakespeare', 'Tragedy', 5);
+INSERT INTO BOOKS VALUES (0092, 'Macbeth', 'Shakespeare', 'Tragedy' 5);
+INSERT INTO BOOKS VALUES (0093, 'Hamlet', 'Shakespeare','Tragedy',5);
+INSERT INTO BOOKS VALUES (0094, 'Antony and Cleopatra', 'Shakespeare' 'Tragedy', 5);
+INSERT INTO BOOKS VALUES (0095, 'Midsummer Nights Dream', 'Shakespeare', 'Tragedy', 5);
+INSERT INTO BOOKS VALUES (0096, 'Romeo and Juliet', 'Shakespeare', 'Romance', 5);
+INSERT INTO BOOKS VALUES (0097, 'The Tempest', 'Shakespeare','Romance', 5);
+INSERT INTO BOOKS VALUES (0098, 'Othello', 'Shakespeare', 'Tragedy', 5);
+INSERT INTO BOOKS VALUES (0099, 'As You Like It', 'Shakespeare', 'Romance', 5);
+INSERT INTO BOOKS VALUES (0100, 'Merchant of Venice','Shakespeare','Comedy',5);
+
+
+-- fetch 
+SELECT * FROM Books;
+

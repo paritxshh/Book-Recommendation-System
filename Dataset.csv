@@ -1,0 +1,107 @@
+BOOK NUMBER,BOOK TITLE,AUTHOR,BOOK TYPE,RATING
+1,Harry Potter & The Sorcerer's Stone,J.K. Rowling,Fiction,5
+2,Harry Potter & The Chamber of Secrets,J.K. Rowling,Fiction,5
+3,Harry Potter and The Prisoner of Azkaban,J.K. Rowling,Fiction,5
+4,Harry Potter and The Goblet of Fire,J.K. Rowling,Fiction,5
+5,Harry Potter and The Order of Phoenix,J.K. Rowling,Fiction,5
+6,Harry Potter and The Half-Blood Prince,J.K. Rowling,Fiction,5
+7,Harry Potter and The Deathly Hallows,J.K. Rowling,Fiction,5
+8,Pride and Prejudice,Jane Austen,Drama ,5
+9,The Fault In Our Stars,John Green,Romance ,5
+10,The Great Gatsby,F.Scott Fitzgerald,Fiction,4
+11,All The Light We Cannot See,Anthony Doerr,Fiction,3
+12,The Girl On The Train,Paula Hawkins,Thriller ,3
+13,Gone Girl,Gillian Flynn,Mystery,2
+14,The Twilight Saga,Stephanie Meyer,Fiction,5
+15,Divergent,Veronica Roth,Fiction,3
+16,Jane Eyre,Charlotte Bronte,Fiction,5
+17,Little Women,Louisa May Alcott,Fiction,5
+18,Anna Karenina,Leo Tolstoy,Fiction,5
+19,"The Hobbit, or There and Back Again",J.R.R. Tolkien,Fantasy,3
+20,Les Miserables,Victor Hugo,Epic,5
+21,Gone With The Wind,Margaret Mitchell,Romance ,4
+22,Minor Feelings: An Asian American Reckoning,Cathy Park Hong,Biography,3
+23,Giovannis Room,James Baldwin,Psychological Fiction,3
+24,The Alchemist,Paulo Coelho,Drama ,5
+25,Untamed,Glennon Doyle,Costume Drama,4
+26,Fahrenheit 451,Ray Bradbury,Science Fiction,5
+27,Mans Search for Meaning,Viktor E. Frankl,Biography,3
+28,The Perks of Being a Wallflower,Stephen Chbosky,Romance ,4
+29,A Thousand Splendid Suns,Khaled Hosseini,Domestic Fiction,4
+30,The Little Prince,Antoine De Saint-Exupery,Fiction,2
+31,Life of Pi,Yann Martel,Adventure Fiction,3
+32,The Year of Magical Thinking,Joan Didion,Memoir,3
+33,Men We Reaped,Jesmyn Ward,Biography,3
+34,The Catcher In The Rye,J.D. Salinger,Fiction,3
+35,A Short History of Nearly Everything,Bill Bryson,Non-Fiction,2
+36,To Kill A Mockingbird,Harper Lee,Gothic Fiction,3
+37,Just Us: An American Conversation,Claudia Rankine,Poetry,2
+38,The Book of Delights:Essays,Ross Gay,Autobiography,2
+39,The Diary of a Young Girl ,Anne Frank,Biography,3
+40,How To Be An Antiracist,Ibram X. Kendi,Autobiography,4
+41,The Life-Changing Magic of Tidying Up,Marie Kondo,Self-Help Book,4
+42,In The Dream's House: A Memoir,Carmen Maria Machado,Biography,4
+43,Thick: Other Essays,Tressie McMillan Cottom,Autobiography,4
+44,Deep World: Rules for Focused Success in a Distracted World,Cal Newport,Self-Help Book,4
+45,Maybe You Should Talk To Someone,Houghton Mifflin Harcourt,Autobiography,4
+46,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,Self-Help Book,5
+47,I Remember Nothing,Maya Angelou,Biography,4
+48,The Lord of The Rings,J.R.R. Tolkien,Fantasy,3
+49,The Kite Runner,Khaled Hosseini,Drama ,5
+50,SlaughterHouse-V,Kurt Vonnegurt,Fiction,4
+51,"The Lion, The Witch and The Wardrobe",C.S. Lewis,Fiction,4
+52,The Book Thief,Markus Zusak,Fiction,4
+53,Wuthering Heights,Emily Bronte,Romance ,5
+54,Animal Farm,George Orwell,Allegory,4
+55,Frankenstein,Mary Shelley,Fiction,5
+56,Of Mice and Men,John Steinback,Fiction,4
+57,Think and Grow Rich,Napolean Hill,Self-Help Book,4
+58,The Intelligent Investor,Benjamin Graham,Value-Investing Book,4
+59,How to Win Friends and Influence People,Dale Carnegie,Self-Help Book,4
+60,A Brief History of Time,Stephen Hawking,Popular Science,4
+61,Uncanny People,Anna Wiener,Fiction,5
+62,On The Road,Jack Kerouac,Fiction,4
+63,Notes from a Small Island,Bill Bryson,Travel Literature,4
+64,Vagabonding,Rolf Potts,Guide,4
+65,Wild,Cheryl Stayed,Biography,4
+66,Long Walk To Freedom,Nelson Mandela,Autobiography,4
+67,Good Company,Cynthia Daprix Sweeney,Fiction,4
+68,Normal People,Sally Rooney,Fiction,4
+69,Trust Excise,Susan Choi,Romance ,4
+70,Trick Mirror: Reflections on Self-Delusion,Jia Tolentino,Non-Fiction,4
+71,Mostly Dead Things,Kristen Arnett,Humor,3
+72,Looker,Laura Sims,Thriller ,4
+73,The Bright Hour: A Memoir of Living and Dying,Nina Riggs,Autobiography,2
+74,The Particular Sadness of Lemon Cake,Aimee Bender,Fiction,3
+75,Alone Time,Stephane Rosenbloom,Autobiography,2
+76,The Shortest Way Home,Miriam Parker,Autobiography,4
+77,Becoming,Michelle Obama,Memoir,4
+78,Overwhelmed,Brigid Schulte,Alternative/Indie,3
+79,Kafka on The Shore,Haruli Murakami,Humor,3
+80,Flaneuse,Lauren Elkin,Autobiography,4
+81,The Wedding Date,Jasmine Guillory,Fiction,4
+82,The Thirteen Tale,Diane Setterfield,Fiction,3
+83,The Language of Flowers,Vanessa Diffenbaugh,Fiction,3
+84,This is How It Always Is,Laurie Frankel,Fiction,3
+85,An American Marriage,Tayari Jones,Fiction,4
+86,The Great Believers,Rebecca Makkai,Fiction,4
+87,Where The Crawdads Sing,Delia Owens,Mystery,2
+88,Everyone Brave Is Forgiven,Chris Cleave,Romance ,2
+89,As Bright As Heaven,Susan Meissner,Fiction,3
+90,The Pillars Of The Earth,Ken Follett,Historical Fiction,3
+91,The Rosie Project,Graeme Simison,Romance ,3
+92,A Man Called Ove,Fredrik Backman,Fiction,4
+93,Fierce Kingdom,Gin Phillips,Fiction,4
+94,Then She Was Gone,Lisa Jewell,Fiction,3
+95,FreeFall,Jessica Barry,Fiction,5
+96,Into The Forest,Jean Hegland,Thriller ,5
+97,Julius Caesar,W. Shakespeare,Tragedy,5
+98,MacBeth,W. Shakespeare,Tragedy,5
+99,Hamlet,W. Shakespeare,Tragedy,5
+100,Antony and Cleopatra,W. Shakespeare,Tragedy,5
+101,Midsummer Nights Dreams,W. Shakespeare,Tragedy,5
+102,Romeo and Juliet,W. Shakespeare,Romance ,5
+103,The Tempest,W. Shakespeare,Romance ,5
+104,Othello,W. Shakespeare,Tragedy,5
+105,As You Like It,W. Shakespeare,Romance ,5
+106,Merchant of Venice,W. Shakespeare,Comedy,5
